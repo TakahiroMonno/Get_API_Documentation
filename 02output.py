@@ -1,6 +1,6 @@
 import requests
 import json
-import os
+import os # ファイル操作のためのモジュール
 
 
 ### ステップ2: ライブラリ名とバージョンからMaven Central RepositoryのURLを取得し、JARファイルをダウンロード
